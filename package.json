@@ -1,5 +1,5 @@
 {
-    "name": "ws_task",
+    "name": "node_websocket_battleship",
     "version": "1.0.0",
     "description": "Template for the WebSocket remote control task",
     "main": "index.js",
@@ -16,6 +16,7 @@
         "nodemon": "^2.0.16"
     },
     "dependencies": {
-        "ws": "^8.8.0"
+        "ws": "^8.8.0",
+        "mime-types": "^2.1.35"
     }
 }
